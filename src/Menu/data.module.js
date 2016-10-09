@@ -4,7 +4,7 @@
 angular.module('data', []);
 
 angular.module('data')
-.constant('ApiBasePath', "http://davids-restaurant.herokuapp.com");    
+.constant('ApiBasePath', "https://davids-restaurant.herokuapp.com");    
 
 
 })();
